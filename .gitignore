@@ -1,0 +1,7 @@
+# working files — never publish
+_tools/
+_unused-images/
+README.md
+conversion-log*.txt
+dead-links-report.html
+.DS_Store
